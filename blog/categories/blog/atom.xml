@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Roberto Aloi]]></title>
-  <link href="http://prof3ta.github.com/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: blog | Roberto Aloi]]></title>
+  <link href="http://prof3ta.github.com/blog/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://prof3ta.github.com/blog/"/>
   <updated>2012-02-12T23:32:58+01:00</updated>
   <id>http://prof3ta.github.com/blog/</id>
@@ -18,7 +18,7 @@
     <link href="http://prof3ta.github.com/blog/blog/2012/02/12/from-wordpress-to-octopress/"/>
     <updated>2012-02-12T23:26:00+01:00</updated>
     <id>http://prof3ta.github.com/blog/blog/2012/02/12/from-wordpress-to-octopress</id>
-    <content type="html"><![CDATA[<p>Today is a great day. I&#8217;ve finally decided to move from my old Wordpress blog to an Octopress one.</p>
+    <content type="html"><![CDATA[<p>Today is a great day. I've finally decided to move from my old Wordpress blog to an Octopress one.</p>
 ]]></content>
   </entry>
   
