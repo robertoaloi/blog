@@ -61,8 +61,10 @@
         </form>
         
       </ul>
-      <ul class="nav pull-right subscription" data-subscription="rss">
+      <ul class="nav pull-right subscription" data-subscription="rss email">
         <li><a href="/blog/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+        
+        <li><a href="test@test.com" rel="subscribe-email" title="subscribe via email">Email</a></li>
         
       </ul>
     </div>
@@ -70,8 +72,8 @@
 </div>
 
 </nav>
-  <div class="container-fluid">
-    <div id="row-fluid">
+  <div class="container">
+    <div id="row">
       <div>
 <article role="article">
   
@@ -92,7 +94,7 @@
 <h1><a href="/blog/blog/2012/02/12/from-wordpress-to-octopress/">From Wordpress to Octopress</a></h1>
 <time datetime="2012-02-12T23:26:00+01:00" pubdate><span class='month'>Feb</span> <span class='day'>12</span> <span class='year'>2012</span></time>
 
-<footer>
+<footer class="footer">
   <span class="categories">posted in <a class='category' href='/blog/blog/categories/blog/'>blog</a></span>
 </footer>
 
@@ -130,7 +132,7 @@
 
     </div>
   </div>
-  <footer role="contentinfo"><p>
+  <footer class="footer" role="contentinfo"><p>
   Copyright &copy; 2012 - Roberto Aloi -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
